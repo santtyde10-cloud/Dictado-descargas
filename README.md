@@ -2,6 +2,8 @@
 
 Dictado por voz y transcripción de reuniones, **todo en tu ordenador**: el audio no sale de él, sin límites ni suscripciones.
 
+> 📖 **Guía completa paso a paso** (qué pulsar, dónde está cada cosa y qué hacer si algo falla): **[GUIA.md](GUIA.md)**
+
 ## Descargar
 
 Ve a **[Releases](../../releases/latest)** (a la derecha, "Releases") y descarga el archivo de tu sistema:
